@@ -23,9 +23,6 @@ public class Main {
                 case 2:
                     System.out.println("Добрый вечер!" + names[2]);
                     break;
-                default:
-                    System.out.println("Hello");
-                    break;
             }
         }
 
@@ -40,9 +37,6 @@ public class Main {
                     break;
                 case "Ilim":
                     System.out.println("Добрый вечер!" + names[2]);
-                    break;
-                default:
-                    System.out.println("Hello");
                     break;
             }
         }
